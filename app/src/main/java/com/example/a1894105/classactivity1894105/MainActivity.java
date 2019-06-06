@@ -96,7 +96,7 @@ import android.widget.Toast;
                         String name = "Data save";
 
 
-                        Snackbar snack = Snackbar.make(findViewById(R.id.conLayout), "Thank You",
+                        Snackbar snack = Snackbar.make(findViewById(R.id.conLayout), "Thank for You",
                                 Snackbar.LENGTH_LONG).setAction("Clear", new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
