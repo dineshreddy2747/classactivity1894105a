@@ -36,10 +36,18 @@
     <EditText
         android:id="@+id/editText6"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="44dp"
         android:ems="10"
         android:inputType="textEmailAddress"
         tools:layout_editor_absoluteX="47dp"
-        tools:layout_editor_absoluteY="224dp" />
+        tools:layout_editor_absoluteY="226dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="381dp" />
 
 </android.support.constraint.ConstraintLayout>
